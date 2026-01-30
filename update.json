@@ -1,5 +1,12 @@
 {
   "latest_version": "ver.1.0",
-  "download_url": "https://cloudoamp.ct.ws/KeyBox-Chart-Packager/ver.1.zip",
-  "changelog": "・初版！！！"
+  "download_url": "https://github.com/cloudoamp/KeyBox-Chart-Packager/releases/download/ver.1/KeyBoxChartPackagerver.1.0.zip",
+  "changelog": "初版！！！"
+}
+{
+  "latest_version": "ver.2.0",
+  "download_url": "https://github.com/cloudoamp/KeyBox-Chart-Packager/releases/download/ver.2/KeyBoxChartPackagerver.2.0.zip",
+  "changelog": "Vsqxの読み込み対応　
+ust読み込み試験導入
+同時に複数ノーツをたたく確率を減少"
 }
