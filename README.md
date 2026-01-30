@@ -4,6 +4,7 @@
 KeyBoxの創作譜面をみんな作ってほしいから補助アプリ作っちゃいました<br>
 みんなで作ろう！！！<br>
 そしてみんなで共有しよう！！<br>
+<img width="1360" height="720" alt="image" src="https://github.com/user-attachments/assets/5e94a7c4-b3af-425d-b6fb-b1bbc2c6744f" />
 
 # 使い方
 
