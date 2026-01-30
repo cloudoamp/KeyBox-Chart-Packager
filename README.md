@@ -1,4 +1,4 @@
-# KeyBox-Chart-Packager
+# KeyBox-Chart-Packager/KeyBox創作譜面補助アプリ
 さしみ。さんの制作している音ゲー「KeyBox」の創作譜面作成補助アプリ<br>
 <br>
 KeyBoxの創作譜面をみんな作ってほしいから補助アプリ作っちゃいました<br>
