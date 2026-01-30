@@ -1,4 +1,5 @@
 # KeyBox-Chart-Packager/KeyBox創作譜面補助アプリ
+<img width="128" height="128" alt="98ff6704-3903-403b-9f72-053f1877fc11-8" src="https://github.com/user-attachments/assets/171c36ec-e1b9-46bc-af3f-8519bbedd1cd" />
 さしみ。さんの制作している音ゲー「KeyBox」の創作譜面作成補助アプリ<br>
 <br>
 KeyBoxの創作譜面をみんな作ってほしいから補助アプリ作っちゃいました<br>
