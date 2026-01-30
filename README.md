@@ -34,7 +34,7 @@ KeyBox_Dataっていうフォルダだと思います<br>
 
 # 譜面制作方法
 
-KeyBox<br>
+KeyBox公式Youtube<br>
 【公式】KeyBoxの譜面の制作方法 [基本編]【永久保存版】<br>
 https://youtu.be/Pzj8MyIhkJM?si=9nuCAyW2969NqIFH<br>
 
