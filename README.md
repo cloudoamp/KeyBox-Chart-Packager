@@ -47,6 +47,12 @@ https://gamejolt.com/games/teamkeybox_kb/725094<br>
 # バグ報告
 cloudoam@gmail.comまたはXのDMにて教えてください<br>
 <br>
+# アップデート履歴<br>
+**2026/01/30 ver.1**<br>
+初版<br>
+<br>
+**2026/01/31 ver.2**<br>
+Vsqxの読み込み対応・同時に複数ノーツをたたく確率を減少　ust読み込み試験導入<br>
 <br>
 <br>
 刻みネギ(クラウドームP)
